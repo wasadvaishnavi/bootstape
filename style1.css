@@ -1,0 +1,63 @@
+*{
+	font-family:Chelsea Market ;
+}
+
+/*services offered*/
+
+#services_offered{
+	
+	margin-top: 30px;
+
+}
+
+.services-column{
+	padding: 20px;
+	text-align: center;
+}
+
+.service-content{
+
+	margin-top: 50px;
+}
+
+/*gallery section*/
+
+#Gallery{
+
+	
+	margin-top: 100px;
+
+}
+
+.image-div{
+	text-align: center;
+}
+
+.image-container{
+	text-align: center;
+}
+
+button{
+	margin-top: 100px;
+}
+
+/*footer*/
+footer{
+	margin-top: 10px;
+	background-color: #a4c6de;
+	color: #e7ebed;
+}
+.image-container{
+	text-align: center;
+}
+
+.footer-link{
+	color: #ffffff;
+}
+.footer-link: hover{
+	color: #ffffff;
+}
+
+ul{
+	list-style: none;
+}
