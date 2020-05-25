@@ -1,1 +1,1 @@
-# bootstape
+# bootstrape
